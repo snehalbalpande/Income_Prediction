@@ -55,7 +55,7 @@ To check remote url
 To setup CI/CD pipeline in heroku we need 3 information
 
 1. HEROKU_EMAIL = snehalbalpande1@gmail.com
-2. HEROKU_API_KEY = 2bee9681-63c3-472a-b214-280b8e8b7606
+2. HEROKU_API_KEY = <>
 3. HEROKU_APP_NAME = meachine-learning-app
 
 BUILD DOCKER IMAGE
